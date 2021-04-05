@@ -14,7 +14,7 @@ const Meta = ({ title, description, keywords }) => {
 Meta.defaultProps = {
   title: 'Welcome To Virtual Store',
   description: 'We sell the best products for cheap',
-  keywords: 'furnuture, buy furnuture, cheap furnuture',
+  keywords: 'furniture, buy furniture, cheap furniture',
 };
 
 export default Meta;
